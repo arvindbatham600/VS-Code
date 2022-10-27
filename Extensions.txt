@@ -1,0 +1,16 @@
+vscode-icons
+Rainbow-Brackets
+Prettier
+One Dark Pro
+Material Icon Theme
+Live Server
+Highlight Matching Tag
+Github Copilot
+Fluent Icons
+ES7+React/Redux
+Color Highlight
+Cobalt2 Theme Official
+Bracket Pair Color DLW
+Bracket Highlighter
+Auto Rename Tag
+Auto Close Tag
